@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "Little Spaceship Adventures.data.unityweb",
+"asmCodeUrl": "Little Spaceship Adventures.asm.code.unityweb",
+"asmMemoryUrl": "Little Spaceship Adventures.asm.memory.unityweb",
+"asmFrameworkUrl": "Little Spaceship Adventures.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
